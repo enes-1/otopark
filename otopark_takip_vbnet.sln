@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "otopark_takip_vbnet", "otopark_takip_vbnet\otopark_takip_vbnet.vbproj", "{8C1C32EB-2B67-41E7-84BD-92F87525305B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1C32EB-2B67-41E7-84BD-92F87525305B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1C32EB-2B67-41E7-84BD-92F87525305B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1C32EB-2B67-41E7-84BD-92F87525305B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1C32EB-2B67-41E7-84BD-92F87525305B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5D270EA-8A24-4465-B04C-0F24FA7E2BCF}
+	EndGlobalSection
+EndGlobal
